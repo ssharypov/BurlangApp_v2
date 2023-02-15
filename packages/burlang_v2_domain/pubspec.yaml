@@ -2,7 +2,7 @@ name: burlang_v2_domain
 description: A new Flutter package project.
 version: 0.0.1
 publish_to: 'none'
-homepage:
+homepage: ''
 
 environment:
   sdk: '>=2.18.4 <3.0.0'
@@ -13,6 +13,8 @@ dependencies:
     sdk: flutter
   burlang_v2_core:
     path: ../burlang_v2_core
+  dartz: ^0.10.1
+  equatable: ^2.0.5
 
 dev_dependencies:
   flutter_test:
