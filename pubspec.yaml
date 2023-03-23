@@ -17,12 +17,6 @@ dev_dependencies:
   flutter_lints: ^2.0.0
   flutter_test:
     sdk: flutter
-  burlang_v2_core:
-    path: packages/burlang_v2_core
-  burlang_v2_data:
-    path: packages/burlang_v2_data
-  burlang_v2_domain:
-    path: packages/burlang_v2_domain
 
 flutter:
   uses-material-design: true
