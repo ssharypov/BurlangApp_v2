@@ -1,0 +1,42 @@
+*   [33mcommit 28d5f3b7ac1d5389b397a944cc0bb1b62f52ddd0[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+[31m|[m[32m\[m  Merge: 3ae7a48 ea52f17
+[31m|[m [32m|[m Author: Саян Шарыпов <sayan.d@sharypovs.online>
+[31m|[m [32m|[m Date:   Thu Mar 23 21:02:34 2023 +0800
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     before merging
+[31m|[m [32m|[m 
+[31m|[m * [33mcommit ea52f17f59893678d6b64acbf0902ee46017b687[m[33m ([m[1;31morigin/main[m[33m)[m
+[31m|[m [32m|[m Author: Алексей Содномов <sodnomoff@gmail.com>
+[31m|[m [32m|[m Date:   Thu Feb 16 03:23:36 2023 +0800
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     feat: make params
+[31m|[m [32m|[m 
+* [32m|[m [33mcommit 3ae7a48eb5708225dde35343a182ca8d01f23e81[m
+[32m|[m [32m|[m Author: Саян Шарыпов <sayan.d@sharypovs.online>
+[32m|[m [32m|[m Date:   Thu Mar 23 21:01:11 2023 +0800
+[32m|[m [32m|[m 
+[32m|[m [32m|[m     before merging
+[32m|[m [32m|[m   
+[32m|[m [32m|[m * [33mcommit da667117f04a0d963c98b8826df1965cc0d2a409[m[33m ([m[1;31morigin/s_noolya_nahooy[m[33m, [m[1;32ms_noolya_nahooy[m[33m)[m
+[32m|[m [32m|[m[32m/[m  Author: Саян Шарыпов <sayan.d@sharypovs.online>
+[32m|[m[32m/[m[32m|[m   Date:   Thu Mar 23 20:52:43 2023 +0800
+[32m|[m [32m|[m   
+[32m|[m [32m|[m       translation_remote_datasource
+[32m|[m [32m|[m 
+* [32m|[m [33mcommit a846df06e6fb2cc4f340ab28ddd98b4859763488[m
+[32m|[m[32m/[m  Author: Саян Шарыпов <sayan.d@sharypovs.online>
+[32m|[m   Date:   Tue Mar 7 16:01:36 2023 +0800
+[32m|[m   
+[32m|[m       С нуля nahooy
+[32m|[m 
+* [33mcommit 6356be3a4c93f814f487dae9c54027e7058b7078[m
+[33m|[m Author: Саян Шарыпов <sayan.d@sharypovs.online>
+[33m|[m Date:   Wed Feb 15 16:01:37 2023 +0800
+[33m|[m 
+[33m|[m     find a word skeleton begin
+[33m|[m 
+* [33mcommit 1520a990e23686205063c8b8ec15ea4da87f4d00[m
+  Author: Саян Шарыпов <sayan.d@sharypovs.online>
+  Date:   Mon Jan 23 13:45:39 2023 +0800
+  
+      'start'
