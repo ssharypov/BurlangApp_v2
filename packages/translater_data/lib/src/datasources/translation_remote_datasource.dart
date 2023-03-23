@@ -30,7 +30,7 @@ class TranslationsRemoteDatasourceImpl implements TranslationsRemoteDatasource {
     if (response.statusCode == 200) {
       final translations = json.decode(response.body);
       return (translations['translations'] as List)
-          .map((translation) => TranslationModel.fromJson(translations))
+          .map((translation) => TranslationModel.fromJson(translation))
           .toList();
     } else {
       throw ServerException();

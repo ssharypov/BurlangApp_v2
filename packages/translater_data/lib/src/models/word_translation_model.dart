@@ -8,4 +8,10 @@ class TranslationModel extends TranslationEntity {
       value: (json['value']),
     );
   }
+
+  Map<String, dynamic> toJson() {
+    return {
+      'value': value,
+    };
+  }
 }

@@ -5,13 +5,13 @@ import 'package:translater_domain/src/entities/word_translation_entity.dart';
 import 'package:translater_domain/src/repositories/word_translation_repository.dart';
 
 class TranslateWordUsecase
-    extends Usecase<TranslationEntity, TranslationParams> {
+    extends Usecase<List<TranslationEntity>, TranslationParams> {
   final WordTranslationRepository wordTranslationRepository;
 
   TranslateWordUsecase(this.wordTranslationRepository);
 
   @override
-  Future<Either<Failure, TranslationEntity>> call(
+  Future<Either<Failure, List<TranslationEntity>>> call(
       TranslationParams params) async {
     return await wordTranslationRepository.translateWord(
         params.translateFrom, params.sourceWord);
